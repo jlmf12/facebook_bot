@@ -1,13 +1,9 @@
 {
   "name": "mi-bot-comment-dm",
   "version": "1.0.0",
-  "description": "Bot de Facebook: comentario con palabra clave -> DM automático",
+  "description": "Bot de Facebook",
   "scripts": {
-    "dev": "vercel dev",
-    "start": "node api/webhook.js"
-  },
-  "dependencies": {
-    "node-fetch": "^3.3.2"
+    "start": "node api/test.js"
   },
   "type": "module"
 }
